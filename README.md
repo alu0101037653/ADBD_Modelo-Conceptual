@@ -1,7 +1,7 @@
 # ADBD_Modelo-Conceptual
 
 ## Construido con 🛠️
-
+* [Draw.io](https://www.draw.io/)  - Aplicación de diagramación integrada de Google Drive.
 ## Ejercicios ⌨️
 ### BBDD de la Empresa de Alquileres.
 _1.Analiza los requisitos de la BDD de la de la empresa de alquileres y realizar un diagrama E/R de un diseño que propongas para gestionar su información._
