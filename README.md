@@ -6,12 +6,12 @@
 ### BBDD de la Empresa de Alquileres.
 _1.Analiza los requisitos de la BDD de la de la empresa de alquileres y realizar un diagrama E/R de un diseño que propongas para gestionar su información._
 
-El diagrama Entidad/Relación que hemos diseñado se encuentra en este repositorio bajo el nombre de **Alquiler Inmuebles BBDD Grupo_10.png**
+El diagrama Entidad/Relación que hemos diseñado se encuentra en este repositorio bajo el nombre de [Alquiler Inmuebles BBDD Grupo_10.png](https://github.com/alu0101037653/ADBD_Modelo-Conceptual/blob/master/Alquiler%20Inmuebles%20BBDD%20Grupo_10.png)
 
 ### BBDD del Servicio de Deportes de la ULL.
 _2. Analiza los requisitos de la BDD del Servicio de Deportes de la ULL y realiza un borrador de diagrama E/R en el que deben aparecer las entidades, interrelaciones y los atributos. Indica si hay algún requisito que no se pueda especificar con los modelos de datos que se han trabajado hasta ahora._
 
-En primer lugar, diagram E/R del Servicio de Deportes se encuentra en **Centro_Deportes_BBDD.png**
+En primer lugar, diagram E/R del Servicio de Deportes se encuentra en [Centro_Deportes_BBDD.png](https://github.com/alu0101037653/ADBD_Modelo-Conceptual/blob/master/Centro_Deportes_BBDD.png)
 En cuanto a los requisitos que no se pudieron especificar en el modelo fueron aquellas restricciones del estilo:
   * El seguro de la ULL cubre a alumnos menores de 28, el seguro del personal ULL, seguro > 28 y ajenos tienen que aportarlo.
   * El trofeo rector sólo pueden participar personas de la ULL.
